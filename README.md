@@ -1,7 +1,9 @@
 # Automobile Sales Database System
 
 
-
+![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Design](https://img.shields.io/badge/Model-ER_%26_Relational-FF6C37?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge)
 
 
 A complete relational database design and MySQL implementation for an automobile manufacturing and dealership sales company (modeled after multi-brand automotive groups such as Volkswagen Group, Tata Motors, General Motors, and Mahindra). This repository covers the full database lifecycle: conceptual Entity-Relationship (ER) modeling, logical relational schema mapping, database creation (DDL), realistic Indian sample data population (DML), and analytical business queries.
